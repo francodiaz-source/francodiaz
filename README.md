@@ -5,7 +5,7 @@
 
 <h3 align="left">🌐 Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/franco-diaz" target="_blank">
+  <a href="https://www.linkedin.com/in/franco-diaz-802899392/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Franco Díaz" height="30" width="40" />
   </a>
 </p>
